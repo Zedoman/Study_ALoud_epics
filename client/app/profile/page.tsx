@@ -1,10 +1,11 @@
 /* eslint-disable react-hooks/rules-of-hooks */
+
 'use client'
 import React, { FC, useState } from 'react'
 import Protected from '../hooks/useProtected'
 import Heading from '../Utils/Heading'
 import Header from '../Components/Header'
- import Profile from '../Components/Profile/Profile'
+import Profile from '../Components/Profile/Profile'
 import { useSelector } from 'react-redux'
 
 type Props = {}
@@ -22,7 +23,7 @@ const page:FC<Props>  = (props) => {
       <Protected>
       <Heading 
       title={`${user?.name} Profile`}
-      description="Elearning is a platform for students to learn and get help from teachers"
+      description="Study Aloud is a platform for students to learn and get help from teachers"
       keywords="Programming,MERN,Redux,Machine Learning"
       />
       <Header

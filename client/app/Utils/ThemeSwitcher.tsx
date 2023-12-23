@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react"
 import { useTheme } from "next-themes"
 import {BiMoon,BiSun} from 'react-icons/bi'
- 
+//for light and dark 
 export const ThemeSwitcher = () => {
     const [mounted, setMounted] = useState(false);
     const {theme,setTheme} = useTheme();
