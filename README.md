@@ -1,4 +1,4 @@
-# Study_Hero_epics
+# Study_Aloud_epics
 
 Firstly in vs code open two terminals for client and server <br>
 The second most important is provide the details in .env file with your own details that are required <br>
