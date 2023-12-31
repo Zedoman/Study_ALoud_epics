@@ -1,6 +1,6 @@
 # Study_Aloud_epics
 
-Firstly in vs code open two terminals for client and server <br>
+Firstly in vs code open three terminals for client, server and book <br>
 The second most important is provide the details in .env file with your own details that are required <br>
 
 to run the project for book for the digital library in the website <br>
