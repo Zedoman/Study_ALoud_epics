@@ -17,3 +17,6 @@ to run the project for server <br>
 cd server <br>
 npm i <br>
 npm run dev <br>
+
+
+Study Buddy(or study gpt) is made using flusk where the user will put the question and will get the answer based on it. 
