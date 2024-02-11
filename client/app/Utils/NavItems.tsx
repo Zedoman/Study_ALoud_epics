@@ -22,6 +22,10 @@ export const navItemsData = [
 		name: 'FAQ',
 		url: '/faq',
 	},
+	{
+		name: 'Digital Library',
+		url: 'http://localhost:3001/',
+	},
 ];
 
 type Props = {
