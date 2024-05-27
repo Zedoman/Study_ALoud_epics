@@ -1,5 +1,19 @@
 # Study_Aloud_epics
 
+
+<img width="942" alt="1" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/8efee80e-82f4-4c6e-b53c-c5fa91bf3c1b">
+<img width="940" alt="2" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/5018c97b-402a-4030-80de-e12dfbe8f115">
+<img width="926" alt="3" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/9f51c41a-9e07-4451-8f61-4b4445e1bbee">
+<img width="916" alt="4" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/3afb1eae-ad8e-43a9-8c4c-b2b60411270d">
+<img width="617" alt="5" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/6bf917d5-a17f-4e6e-8c2b-e3e536e5941b">
+<img width="938" alt="6" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/f64c90e1-6836-4ccb-b7cf-55d8ec71d7e9">
+<img width="929" alt="7" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/e1a7dc74-9471-4917-8daa-3ad3db65406f">
+<img width="857" alt="8" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/c6e65887-e544-4c4d-be0f-7e0c1596bd19">
+<img width="500" alt="Screenshot 2024-03-10 220139" src="https://github.com/Zedoman/Study_ALoud_epics/assets/91881492/65c3bc11-46ba-41c4-bcab-f209452f97c8">
+
+
+
+
 Study Aloud isn't merely an e-learning platform; it's a dynamic educational ecosystem meticulously designed to cater to the diverse needs and interests of learners worldwide. Its innovative approach aims not only to impart knowledge but to ignite a passion for learning through engaging, visually enriched content and personalized experiences.
 
 Upon entering the Study Aloud universe, users are greeted with a seamless onboarding process that allows them to effortlessly sign up or log in. This initial step sets the tone for what follows: a journey of discovery and enlightenment that transcends the confines of traditional education. Gone are the days of dry lectures and uninspired textbooks; Study Aloud brings learning to life through captivating animation videos that cover an extensive range of subjects, from the fundamentals of mathematics to the complexities of artificial intelligence.
